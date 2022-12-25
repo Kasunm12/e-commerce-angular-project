@@ -1,0 +1,16 @@
+{
+  "seller": [
+    {
+      "name": "kasun weerasekara",
+      "email": "www.kasunmadulal@gmail.com",
+      "passwaord": "Kasun@123",
+      "id": 1
+    },
+    {
+      "name": "developer",
+      "email": "www.developer@gmail.com",
+      "passwaord": "developer@123",
+      "id": 2
+    }
+  ]
+}
