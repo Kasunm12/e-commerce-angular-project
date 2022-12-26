@@ -11,6 +11,18 @@
       "email": "www.developer@gmail.com",
       "passwaord": "developer@123",
       "id": 2
+    },
+    {
+      "name": "developer",
+      "email": "www.developer@gmail.com",
+      "passwaord": "developer@123",
+      "id": 3
+    },
+    {
+      "name": "developer",
+      "passwaord": "developer@123",
+      "email": "www.developer@gmail.com",
+      "id": 4
     }
   ]
 }
